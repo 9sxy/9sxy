@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dxqd/dxqd/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="right">i know this ugly maybe one day i'll try harder to make it look good</p>
 
 ###
