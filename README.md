@@ -8,18 +8,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/6b45et4gk6lm98r59wkt5y1l8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6b45et4gk6lm98r59wkt5y1l8&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<p align="left">sometimes i download stuff</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -40,10 +28,6 @@
 
 ###
 
-<p align="left">socials just in case</p>
-
-###
-
 <div align="center">
   <a href="https://e-z.bio/fx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
@@ -52,10 +36,10 @@
 
 ###
 
-<p align="right">i know this ugly maybe one day i'll try harder to make it look good</p>
+<img src="https://raw.githubusercontent.com/dxqd/dxqd/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/dxqd/dxqd/output/snake.svg" alt="Snake animation" />
+<p align="right">i know this ugly maybe one day i'll try harder to make it look good</p>
 
 ###
