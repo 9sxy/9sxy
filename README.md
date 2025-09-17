@@ -27,3 +27,4 @@ pronouns     : he/him
 Specialist on hardware and software maintenance learning how to code
 ```
 <a href="https://e-z.bio/fx">゛ If you ever need to contact me ⸝⸝.ᐟ⋆</a>
+[Bio](https://e-z.bio/fx)
