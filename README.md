@@ -25,5 +25,5 @@ VFX           : Adobe After Effects CC 2014, Filmora X
 ```kitty
 pronouns     : he/him
 Specialist on hardware and software maintenance learning how to code
-<a href="https://e-z.bio/fx">Bio</a>
 ```
+<a href="https://e-z.bio/fx">Bio</a>
