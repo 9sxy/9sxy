@@ -1,3 +1,5 @@
+<div style="color: #00ff00;">
+
 ```bash
 $ whoami
 developer@github:~$
@@ -19,6 +21,8 @@ Processes   : coding, debugging, coffee.exe
 - JavaScript, Python, TypeScript
 - React, Node.js, Docker
 - Git, PostgreSQL, AWS
+
+</div>
 
 <div align="center">
 
