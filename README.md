@@ -29,6 +29,7 @@ VFX           : Adobe After Effects CC 2014, Filmora X
 ```kitty
 $ tail about_me.md
 
+languages    : esp/eng
 pronouns     : he/him
 Specialist on hardware and software maintenance learning how to code
 ```
