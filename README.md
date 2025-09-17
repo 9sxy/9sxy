@@ -1,26 +1,24 @@
-```diff
+```bash
 $ whoami
-+ developer@github:~$
+developer@github:~$
 ```
 
 <h3 align="center">今夜の空を見て、すべての星には理由があります</h3>
 
 ## 📟 System Info
 
-```diff
-+ OS          : Developer Life v2024
-+ Shell       : /bin/passion
-+ Uptime      : ∞ learning hours
-+ Processes   : coding, debugging, coffee.exe
+```console
+OS          : Developer Life v2024
+Shell       : /bin/passion
+Uptime      : ∞ learning hours
+Processes   : coding, debugging, coffee.exe
 ```
 
 ## 💻 Languages & Tools
 
-```diff
-+ JavaScript, Python, TypeScript
-+ React, Node.js, Docker
-+ Git, PostgreSQL, AWS
-```
+- JavaScript, Python, TypeScript
+- React, Node.js, Docker
+- Git, PostgreSQL, AWS
 
 <div align="center">
 
