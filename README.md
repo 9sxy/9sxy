@@ -11,7 +11,7 @@ developer@github:~$
 $ ls -l
 
 OS          : Windows 11 / MX Linux
-Specs       : Nvidia Gforce RTX 4060, 16GB RAM DDR4 3200MHz, intel i5-12400F, SSD NVME M.2 1TB
+Specs       : Nvidia Geforce RTX 4060, 16GB RAM DDR4 3200MHz, intel i5-12400F, SSD NVME M.2 1TB
 ```
 
 ## ⤷ ゛Languages and Tools ˎˊ˗
